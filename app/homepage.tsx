@@ -28,7 +28,7 @@ export default function SkinProductHero() {
           <h1 className="text-[54px] md:text-[90px] lg:text-[100px] leading-[0.95] text-[#1A1A1A] mb-5 tracking-tight">
             LIVING IN  <br />
             YOUR SKYN <span className="italic"></span>
-            <span className="inline-block w-3 h-3 bg-[#E9F0B1] ml-4 align-baseline mb-2"></span>
+            
           </h1>
 
           {/* CLEAN CALL TO ACTION CONSULTATION BOX */}
