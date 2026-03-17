@@ -5,27 +5,26 @@ export default function SkynRealityDetailSection() {
     <section className="flex flex-col md:flex-row min-h-screen bg-[#F4F1EA]">
       
       {/* LEFT SIDE: Skyn Reality Clinical Image */}
-      <div className="w-full md:w-1/2 relative flex items-center justify-center bg-[#EAE5D8] p-8 md:p-20">
-        
-        {/* Container for the square boxes photo */}
-        <div className="relative w-full max-w-lg aspect-square overflow-hidden shadow-xl group border border-black/5 bg-white">
-          {/* Soft studio lighting overlay */}
-          <div className="absolute inset-0 z-10 bg-gradient-to-tr from-black/5 via-transparent to-transparent opacity-60"></div>
-          
-          <img 
-            src="/image2.png" // Place your new uploaded image in 'public' and rename it
-            alt="SKYN REALITY Dark Circle Treatment"
-            className="w-full h-full object-cover transition-transform duration-[4000ms] group-hover:scale-105"
-          />
-          
-          {/* Subtle Branding Tag */}
-          <div className="absolute top-6 left-6 z-20">
-            <p className="text-[8px] tracking-[0.6em] uppercase text-black/40 font-bold">
-              K-PRO CLINICAL
-            </p>
-          </div>
-        </div>
-      </div>
+     <div className="w-full md:w-1/2 relative flex items-center justify-center bg-[#D1C7A9] p-8 md:p-20">
+  {/* Container for the square boxes photo */}
+  <div className="relative w-full max-w-lg aspect-square overflow-hidden shadow-xl group border border-black/5 bg-white">
+    {/* Soft studio lighting overlay */}
+    <div className="absolute inset-0 z-10 bg-gradient-to-tr from-black/5 via-transparent to-transparent opacity-60"></div>
+
+    <img
+      src="/image2.png" // Place your new uploaded image in 'public' and rename it
+      alt="SKYN REALITY Dark Circle Treatment"
+      className="w-full h-full object-cover transition-transform duration-[4000ms] group-hover:scale-105"
+    />
+
+    {/* Subtle Branding Tag */}
+    <div className="absolute top-6 left-6 z-20">
+      <p className="text-[8px] tracking-[0.6em] uppercase text-black/40 font-bold">
+        K-PRO CLINICAL
+      </p>
+    </div>
+  </div>
+</div>
 
       {/* RIGHT SIDE: Minimalist "Reality" Typography */}
       <div className="w-full md:w-1/2 flex flex-col justify-center px-12 md:px-24 py-20 bg-[#F4F1EA]">
