@@ -78,7 +78,7 @@ export default function SkinProductHero() {
         {/* RIGHT SECTION: IMAGE */}
         <div className="w-full lg:w-[45%] relative min-h-[500px] lg:min-h-screen">
           <img
-            src="/img1.png"
+            src="/imgmodel.jpg"
             alt="Skin Reality Model"
             className="absolute inset-0 w-full h-full object-cover grayscale-[10%]"
           />
