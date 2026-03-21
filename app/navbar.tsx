@@ -63,12 +63,12 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link href="/skynrealitypages" className={linkStyles('/skynrealitypages')}>
+          <Link href="/skynbolt" className={linkStyles('/skynbolt')}>
             Skyn Bolt
           </Link>
         </li>
         <li>
-          <Link href="/products" className={linkStyles('/products')}>
+          <Link href="/skynreality" className={linkStyles('/skinreality')}>
             Skyn Reality 
           </Link>
         </li>

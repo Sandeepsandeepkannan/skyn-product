@@ -3,10 +3,11 @@
 import React from 'react';
 import TransformSkinHero from './transformskinhero';
 
-import GlowEffect from './theglowppage';
+
 import Productdescripton from './productdesc';
 import SkynManifestoPage from './skynman';
 import Formpage from './formpage';
+import GlowEffectResult from './glowppage';
 
 
 export default function SkynReality() {
@@ -16,7 +17,7 @@ export default function SkynReality() {
      <Productdescripton/>
     
      <SkynManifestoPage/>
-      <GlowEffect/>
+      <GlowEffectResult/>
       <Formpage/>
       </div>
   

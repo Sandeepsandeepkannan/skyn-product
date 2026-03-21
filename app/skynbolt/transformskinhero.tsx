@@ -24,8 +24,8 @@ export default function TransformSkinHero() {
           <div className="space-y-4">
             <p className="text-[10px] tracking-[0.4em] uppercase text-gray-400 font-bold">Personal Skincare</p>
             <h1 className="text-[55px] md:text-[80px] lg:text-[95px] leading-[1] tracking-tight text-[#1A1A1A]">
-              <span className="text-[#8C8273] serif italic">Transform</span> <br />
-              <span className="font-bold uppercase">Your Skin</span>
+              <span className="text-[#8C8273] serif italic">The Skyn</span> <br />
+              <span className="font-bold uppercase"> Bolt </span>
             </h1>
           </div>
 
