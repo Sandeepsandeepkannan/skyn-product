@@ -64,12 +64,12 @@ const Navbar = () => {
         </li>
         <li>
           <Link href="/skynrealitypages" className={linkStyles('/skynrealitypages')}>
-            Skyn Reality
+            Skyn Bolt
           </Link>
         </li>
         <li>
           <Link href="/products" className={linkStyles('/products')}>
-            Products
+            Skyn Reality 
           </Link>
         </li>
         <li>

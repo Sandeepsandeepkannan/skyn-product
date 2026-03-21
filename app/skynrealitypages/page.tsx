@@ -5,6 +5,8 @@ import TransformSkinHero from './transformskinhero';
 
 import GlowEffect from './theglowppage';
 import Productdescripton from './productdesc';
+import SkynManifestoPage from './skynman';
+import Formpage from './formpage';
 
 
 export default function SkynReality() {
@@ -12,8 +14,10 @@ export default function SkynReality() {
      <div>
      <TransformSkinHero/>
      <Productdescripton/>
-     <GlowEffect/>
-     
+    
+     <SkynManifestoPage/>
+      <GlowEffect/>
+      <Formpage/>
       </div>
   
   );

@@ -23,7 +23,7 @@ export default function Productdescripton() {
           <div className="space-y-4">
             <p className="text-[10px] tracking-[0.5em] uppercase text-gray-400 font-bold">The Science of Radiance</p>
             <h1 className="text-[55px] md:text-[80px] lg:text-[90px] leading-[0.9] tracking-tighter text-[#1A1A1A]">
-              Skin <span className="text-[#8C8273] serif italic">Reality</span> <br />
+              Skin <span className="text-[#8C8273] serif italic">Bolt</span> <br />
               <span className="font-bold uppercase">Redefined.</span>
             </h1>
           </div>
